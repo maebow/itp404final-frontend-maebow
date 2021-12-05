@@ -9,4 +9,4 @@ https://itp404final-mbowen2.herokuapp.com/api/contacts
 
 images:  
 I got an error which makes me unable to see my tests. Attached is the image of the error I encountered.   
-![Big Headache!](/desktop/testingError.jpg "Ugh")
+![Big Headache!](https://ibb.co/HtNqcJq)
